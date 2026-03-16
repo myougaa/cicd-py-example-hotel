@@ -1,3 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"email: hiwasi1765@wisnick.com, password: tesztelek2021","2600","Hootel Login","test","Mon Mar 16 17:26:28 UTC 2026","passed","Mon Mar 16 17:26:31 UTC 2026","TestHootel","test_hootel","",""
-"","1101","test_hotel_list","test","Mon Mar 16 17:26:33 UTC 2026","passed","Mon Mar 16 17:26:34 UTC 2026","TestHootel","test_hootel","",""
